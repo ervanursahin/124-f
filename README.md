@@ -45,8 +45,8 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://drive.google.com/file/d/1q07QvdLq2OHMBidkVYT3T40vye0CPJsl/view) 
+- **Sprint board update**: Sprint board screenshot: 
+(https://drive.google.com/file/d/1q07QvdLq2OHMBidkVYT3T40vye0CPJsl/view) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]()
