@@ -36,7 +36,7 @@ Takım 124
 
 ## Product Backlog URL
 
-[Miro Backlog Board]()
+[Miro Backlog Board](https://miro.com/app/board/uXjVM9cVKCQ=/)
 
 ---
 # Sprint 1
@@ -46,9 +46,7 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
-![Backlog 2]() 
-![Backlog 3]()
+![Backlog 1](https://drive.google.com/file/d/1q07QvdLq2OHMBidkVYT3T40vye0CPJsl/view) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1]()
