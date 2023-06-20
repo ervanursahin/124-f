@@ -36,7 +36,7 @@ Takım 124
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board]()
 
 ---
 # Sprint 1
