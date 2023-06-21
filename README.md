@@ -46,11 +46,10 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 - **Daily Scrum**: Daily Scrum toplantılarının Zoom üzerinden yapılmasına karar verilmiştir. 
 
 - **Sprint board update**: Sprint board screenshot: 
-(https://drive.google.com/file/d/1q07QvdLq2OHMBidkVYT3T40vye0CPJsl/view) 
+(![Ekran Görüntüsü (20374)](https://github.com/ervanursahin/124-f/assets/76608641/3e288c6a-9330-4a7e-ba33-cd3fcb4c094f)) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
+  ![Screenshot 1](![Ekran Görüntüsü (20376)](https://github.com/ervanursahin/124-f/assets/76608641/f27d0a51-b0d2-4a86-886c-2f19c1e9cbff))
 
 - **Sprint Review**: 
 Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görülmüştür ve bu fikir doğrultusunda çalışmalara başlanmıştır. Uygulama fikrini geliştirmek adına eklenmesi gereken özellikler belirlenmiştir. 
