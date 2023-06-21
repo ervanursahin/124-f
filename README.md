@@ -49,7 +49,7 @@ Story'ler yapılacak işlere bölünmüştür. Miro Board'da gözüken kırmız�
 ![Backlog 1](https://github.com/ervanursahin/124-f/assets/76608641/3e288c6a-9330-4a7e-ba33-cd3fcb4c094f)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/ervanursahin/124-f/assets/76608641/f27d0a51-b0d2-4a86-886c-2f19c1e9cbff)
+![Screenshot 1](https://github.com/ervanursahin/124-f/assets/76608641/f27d0a51-b0d2-4a86-886c-2f19c1e9cbff)
 
 - **Sprint Review**: 
 Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görülmüştür ve bu fikir doğrultusunda çalışmalara başlanmıştır. Uygulama fikrini geliştirmek adına eklenmesi gereken özellikler belirlenmiştir. 
