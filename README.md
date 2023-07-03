@@ -69,22 +69,31 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/2.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Sprint 2 Backlog]((https://drive.google.com/drive/u/0/folders/1EGoIfhoPKBYwGLc0L5ztgeJolGTeWNSo)) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+- **Sprint Review**:
+  Alınan Kararlar: Login, Sign In ve Misafir Girişi aynı zamanda uygulamanın kritik aşamalarında kodlama yaparken biraz acemilik yaşandığı için oralara ağırlık verilecek ve bu kısımlar hallolduktan sonra diğer kısımlara odaklanılacaktır.
+  Sprint Review katılımcıları:
+- Ervanur Şahin: Product Owner
+- Şevval Yıldız: Scrum Master
+- Leyla Gerez: Team Member/Developer
+- Yağmur Dağ:Team Member/Developer
+- Betül Erfidan:Team Member/Developer
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içindeki görev dağılımıyla ilgili düzenleme güncellenmiştir.
+  - Alınan karar doğrultusunda yeni bir yol haritası belirlenmiştir.
 
 -**Diğer Notlar**:
-- N/A
+- Kullanılan/Kullanılacak Olan Kaynaklar:
+- ***Cihan Ürtekin - Flutter ile Mobil Uygulamaya Giriş Kitabı,
+- ***[Emre Altunbilek - Sıfırdan Flutter ile Android ve Ios Apps DevelopmentDart & Flutter Udemy Eğitimi](https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development/)
+- ***[Kasım Adala - Flutter ile Uygulama Geliştirme Kursu](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
+- ***[Engin Demiroğ - Canlı - 6 Saatlik Flutter Mobil Programlama Kampı / Dersleri](https://www.youtube.com/watch?v=oISIcfHAzm4&t=8263s)
+- 
 
 ---
 
