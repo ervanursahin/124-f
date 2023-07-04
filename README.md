@@ -84,7 +84,7 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/2.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Sprint 2 Backlog]((https://drive.google.com/drive/u/0/folders/1EGoIfhoPKBYwGLc0L5ztgeJolGTeWNSo)) 
+![Sprint 2 Backlog]((https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)) 
 
 - **Sprint Review**:
   Alınan Kararlar: Login, Sign In ve Misafir Girişi aynı zamanda uygulamanın kritik aşamalarında kodlama yaparken biraz acemilik yaşandığı için oralara ağırlık verilecek ve bu kısımlar hallolduktan sonra diğer kısımlara odaklanılacaktır.
