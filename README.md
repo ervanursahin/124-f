@@ -71,9 +71,6 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint 2 Backlog]((https://drive.google.com/drive/u/0/folders/1EGoIfhoPKBYwGLc0L5ztgeJolGTeWNSo)) 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-
 - **Sprint Review**:
   Alınan Kararlar: Login, Sign In ve Misafir Girişi aynı zamanda uygulamanın kritik aşamalarında kodlama yaparken biraz acemilik yaşandığı için oralara ağırlık verilecek ve bu kısımlar hallolduktan sonra diğer kısımlara odaklanılacaktır.
   Sprint Review katılımcıları:
