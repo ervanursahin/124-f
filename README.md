@@ -125,13 +125,13 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz sonraki yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/2.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/2.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Sprint 2 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
+![Sprint 3 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Screenshot 2]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
+![Screenshot 3]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
 
 - **Sprint Review**:
   Alınan Kararlar: İlk versiyon için Login, Sign In ve Misafir Girişi yerine bir ikon aracılığıyla kullanıcı ile uygulama hakkında iletişime geçme kararı alındı. Girişim daha prototip aşamasında olduğu için zamanla giriş, kayıt gibi farklı girişler eklenerek daha da geliştirilecek. Şimdilik sadece ana özellik(Filmleri kullanıcıların istekleri doğrultusunda bölünen periyotlarda izleyebilmelerini sağlamak) için çalışmalara devam ediliyor.
