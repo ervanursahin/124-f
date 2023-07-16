@@ -125,7 +125,7 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz sonraki yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats] 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/3.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint 3 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
