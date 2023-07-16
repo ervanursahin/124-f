@@ -22,6 +22,9 @@ Takım 124
 
 ## Ürün Özellikleri
 
+#Ana Özellik:
+- Filmleri kullanıcıların istekleri doğrultusunda bölünen periyotlarda izleyebilmelerini sağlamak
+
 - Filmleri farklı platform ve web sitelerinden çekebilmek
 - Filmleri periyotlara ayırabilmek
 - Kullanıcıların sevdikleri film/dizi uygulamaya yüklendiğinde bildirim gelmesi
@@ -86,6 +89,9 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 - **Sprint board update**: Sprint board screenshotları: 
 ![Sprint 2 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
 
+- **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 2]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
+
 - **Sprint Review**:
   Alınan Kararlar: Login, Sign In ve Misafir Girişi aynı zamanda uygulamanın kritik aşamalarında kodlama yaparken biraz acemilik yaşandığı için oralara ağırlık verilecek ve bu kısımlar hallolduktan sonra diğer kısımlara odaklanılacaktır.
   Sprint Review katılımcıları:
@@ -110,5 +116,44 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 ---
 
 # Sprint 3
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. Kalan 2 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz sonraki yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/2.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Sprint 2 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![Screenshot 2]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
+
+- **Sprint Review**:
+  Alınan Kararlar: İlk versiyon için Login, Sign In ve Misafir Girişi yerine bir ikon aracılığıyla kullanıcı ile uygulama hakkında iletişime geçme kararı alındı. Girişim daha prototip aşamasında olduğu için zamanla giriş, kayıt gibi farklı girişler eklenerek daha da geliştirilecek. Şimdilik sadece ana özellik(Filmleri kullanıcıların istekleri doğrultusunda bölünen periyotlarda izleyebilmelerini sağlamak) için çalışmalara devam ediliyor.
+  
+  Sprint Review katılımcıları:
+- Ervanur Şahin: Product Owner
+- Şevval Yıldız: Scrum Master
+- Leyla Gerez: Team Member/Developer
+- Yağmur Dağ:Team Member/Developer
+- Betül Erfidan:Team Member/Developer
+
+- **Sprint Retrospective:**
+  - Alınan karar doğrultusunda yeni bir yol haritası belirlenmiştir.
+
+-**Diğer Notlar**:
+- Kullanılan/Kullanılacak Olan Kaynaklar:
+- ***Cihan Ürtekin - Flutter ile Mobil Uygulamaya Giriş Kitabı,
+- ***[Emre Altunbilek - Sıfırdan Flutter ile Android ve Ios Apps DevelopmentDart & Flutter Udemy Eğitimi](https://www.udemy.com/course/sifirdan-flutter-ile-android-ve-ios-apps-development/)
+- ***[Kasım Adala - Flutter ile Uygulama Geliştirme Kursu](https://www.udemy.com/course/flutter-ile-uygulama-gelistirme-kursu-android-ios/)
+- ***[Engin Demiroğ - Canlı - 6 Saatlik Flutter Mobil Programlama Kampı / Dersleri](https://www.youtube.com/watch?v=oISIcfHAzm4&t=8263s)
+- ***[Uygulamaya Youtube Videosu Eklemek için Flutter'dan Döküman](https://pub.dev/packages/youtube_player_flutter)
+- ***[How to add YouTube Video Player in Flutter | Flutter Tutorial](https://www.youtube.com/watch?v=YMx8Bbev6T4)
+
 
 ---
