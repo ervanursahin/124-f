@@ -90,7 +90,7 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 ![Sprint 2 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Screenshot 2]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
+![Screenshot 2](https://github.com/ervanursahin/124-f/blob/main/github.jpg)
 
 - **Sprint Review**:
   Alınan Kararlar: Login, Sign In ve Misafir Girişi aynı zamanda uygulamanın kritik aşamalarında kodlama yaparken biraz acemilik yaşandığı için oralara ağırlık verilecek ve bu kısımlar hallolduktan sonra diğer kısımlara odaklanılacaktır.
