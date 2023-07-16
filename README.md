@@ -128,7 +128,7 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/ervanursahin/124-f/blob/main/3.%20Sprint%20Konu%C5%9Fmalar%C4%B1)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Sprint 3 Backlog](https://github.com/ervanursahin/124-f/blob/main/sprint%202.jpg)
+![Sprint 3 Backlog]()
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![Screenshot 3]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
