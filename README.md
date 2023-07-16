@@ -131,7 +131,7 @@ Alınan kararlar: Birçok uygulama fikri üzerinden Film Out fikri uygun görül
 ![Sprint 3 Backlog](https://github.com/ervanursahin/124-f/blob/main/3.sprint.jpg)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Screenshot 3]((https://github.com/ervanursahin/124-f/blob/main/github.jpg))
+![Screenshot 3](https://github.com/ervanursahin/124-f/blob/main/github.jpg)
 
 - **Sprint Review**:
   Alınan Kararlar: İlk versiyon için Login, Sign In ve Misafir Girişi yerine bir ikon aracılığıyla kullanıcı ile uygulama hakkında iletişime geçme kararı alındı. Girişim daha prototip aşamasında olduğu için zamanla giriş, kayıt gibi farklı girişler eklenerek daha da geliştirilecek. Şimdilik sadece ana özellik(Filmleri kullanıcıların istekleri doğrultusunda bölünen periyotlarda izleyebilmelerini sağlamak) için çalışmalara devam ediliyor.
