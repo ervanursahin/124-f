@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17214742206",
+    "project_id": "filmout-5ac0a",
+    "storage_bucket": "filmout-5ac0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17214742206:android:db255dba931a5f9d1888ef",
+        "android_client_info": {
+          "package_name": "com.example.filmout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17214742206-gfnp381n66fvt9idouvdio4sjk3e8ut1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYkM630Qt-aFCArYn5J5vELFvtcASEKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17214742206-gfnp381n66fvt9idouvdio4sjk3e8ut1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
